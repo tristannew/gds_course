@@ -19,3 +19,4 @@ tests/
 cache/
 */*/cache
 gds_course_site.zip
+.venv
